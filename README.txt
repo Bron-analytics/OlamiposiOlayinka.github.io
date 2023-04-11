@@ -16,6 +16,8 @@ you can use for pretty much whatever.
 
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
+Reccommendation slider does not fit on mobile because a slider from a third party was used
+
 AJ
 aj@lkn.io | @ajlkn
 
